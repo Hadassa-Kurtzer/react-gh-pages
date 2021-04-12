@@ -15,10 +15,11 @@ Project is created with:
 	
 ## Setup
 
-To run this project, download this project git clone install it locally using npm:
+To run this project, download this project git clone https://github.com/Hadassa-Kurtzer/react-gh-pages.git
+and install it locally using npm:
 
 ```
-$ cd ../lorem
+$ cd react-gh-pages
 $ npm install
 $ npm start
 ```
