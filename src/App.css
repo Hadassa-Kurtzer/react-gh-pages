@@ -1,3 +1,5 @@
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
 .App {
   text-align: center;
 }
@@ -35,4 +37,50 @@
   to {
     transform: rotate(360deg);
   }
+}
+.app {
+  
+  height: 100vh;
+  padding: 30px;
+  /* align-items: center; */
+  /* justify-content: center; */
+  display: grid;
+  place-items: center;
+}
+
+.todo-list {
+  background: #e8e8e8;
+  /* justify-content: center; */
+  /* display: flex; */
+  /* align-items: center; */
+  border-radius: 4px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+  max-width:600px;
+  padding: 5px;
+  
+  
+}
+
+.todo {
+  
+  align-items: center;
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+  display: flex;
+  
+  font-size: 16px;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  padding: 3px 10px;
+}
+label {
+  display: block;
+  text-align: center;
+  line-height: 150%;
+  font-size: 20px;
+}
+.div1{
+  display: block;
+  text-align: center;
 }
