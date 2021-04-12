@@ -21,5 +21,6 @@ and install it locally using npm:
 ```
 $ cd react-gh-pages
 $ npm install
+$ npm install react-scripts
 $ npm start
 ```
