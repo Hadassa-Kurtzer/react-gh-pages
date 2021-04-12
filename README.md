@@ -1,4 +1,4 @@
-## Table of contents
+## TodoList
 * [About project](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
